@@ -12,4 +12,9 @@ Currently, we are encountering numerous disasters worldwide on an annual basis, 
 # Projects
 
 ## 1. Ideas Sharing:
+
 Right now, we don't have specialized software to manage everyone's ideas, so we will use this Discord: https://discord.gg/CQeXuaw7 to share and discuss our ideas.
+
+## 2. Disaster Recovery Guideline:
+
+This app will enable collaboration between the government and citizens to assist people in disaster areas.
